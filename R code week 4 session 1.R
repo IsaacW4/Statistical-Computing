@@ -118,7 +118,7 @@ text(x=100, y=300000,"day 100")
 text(x=150, y=500000,"500,000 cases")
 
 ##Now we want to add a legend which gives information on the plot 
-legend(0,600000,
+legend(0,6,
        lty =c(1, 2, 4), lwd=c(1,1,2),col=c("red","blue","green"),
        legend=c("UK","Italy","France"))
 

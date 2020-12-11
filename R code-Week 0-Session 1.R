@@ -169,6 +169,8 @@ pokemon[Type.I == "Water", "HP"]
 normal <- pokemon[Type.I == "Normal", "HP"]
 water <- pokemon[Type.I == "Water", "HP"]
 
+mean(normal)
+
 
 #We reject H_0 as p value is 0.2119 so there is no significant evidence to suggest the mean HP for normal and water pokemon is different
 t.test(normal, water)

@@ -1,0 +1,31 @@
+## R code to be used for Week 10 lab 1
+
+
+
+
+
+
+
+
+
+
+
+
+## R code to be used the quiz this week
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
